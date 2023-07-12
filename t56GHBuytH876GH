@@ -181,6 +181,16 @@
       "varid": "457337490387369985",
       "msg": "457337490387369985",
       "authed": 1
+    },
+    {
+      "varid": "sversion",
+      "msg": "v1.0",
+      "authed": 0
+    },
+    {
+      "varid": "version",
+      "msg": "v1.0",
+      "authed": 0
     }
   ]
 }
